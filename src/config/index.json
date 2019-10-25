@@ -1,0 +1,11 @@
+{
+  "initialAmount": 500,
+  "initialTerm": 3,
+  "interest": 6.0,
+  "slider": {
+    "minValue": 100,
+    "maxValue": 2000,
+    "step": 100
+  },
+  "termCards": [3, 6, 12]
+}
